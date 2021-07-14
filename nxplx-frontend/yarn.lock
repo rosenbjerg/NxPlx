@@ -1173,9 +1173,9 @@
   integrity sha512-Fx+NpfOO0CpeYX2g9bkvX8O5qh9wrU1sOF4g8sft4Mu7z+qfe387YlyY8w8daDyDsKY5vUxM0yxkAYnbkRbZEw==
 
 "@types/wicg-mediasession@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@types/wicg-mediasession/-/wicg-mediasession-1.1.0.tgz#368bb113ffc1a5410895cbb1e5ba50ee291f162f"
-  integrity sha512-aA6+ZUHgNpXqWEL8UdS1fx/oCFSrh/Hu9BbM8rXYZLiCQSuZ8+Lzu1//LKwHMNBAXgen7/8LoThDEKS9VEaGxw==
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@types/wicg-mediasession/-/wicg-mediasession-1.1.2.tgz#f02d76f9713f8dd53180d3ae14e23c01e34f5e4d"
+  integrity sha512-5UJ8tBtgMmIzyJafmfBjq2VcXk0SXqZnNCApepKiqLracDV4+dJdYPZCW0IwaYfOBkY54SmfCOWqMBmLCPrfuQ==
 
 "@typescript-eslint/eslint-plugin@^4.22.1":
   version "4.24.0"
